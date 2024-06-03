@@ -14,6 +14,7 @@ Docker-образы хранятся в вашем репозитории на D
 <img width="610" alt="Screenshot_24" src="https://github.com/Zinnur41/devops_practika/assets/89980369/3ae25f92-38f3-43c7-8c14-28321edc8676">
 <img width="690" alt="Screenshot_22" src="https://github.com/Zinnur41/devops_practika/assets/89980369/fca66f8b-b89d-4c53-a94c-d9032cb6b3a1">
 <img width="632" alt="Screenshot_25" src="https://github.com/Zinnur41/devops_practika/assets/89980369/93a24988-c387-44b7-811b-797e5d583157">
+<img width="596" alt="Screenshot_26" src="https://github.com/Zinnur41/devops_practika/assets/89980369/47a88541-001d-40c7-a0cc-5042564e7931">
 
 
 
